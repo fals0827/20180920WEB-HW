@@ -1,0 +1,25 @@
+body {
+    background-image: url("repeat_21.jpg");
+}
+#banner {
+    font-size: 48px;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: 24px;
+    color: blue;
+    border: 5px outset blue;
+    border-radius: 10px;
+    padding: 7px 9px 7px 9px;
+}
+.button:hover{
+    background-color: coral;
+}
+
+a{
+    text-decoration: none;
+}

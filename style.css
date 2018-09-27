@@ -1,0 +1,31 @@
+body{
+    background-image: url("Pattern.01.png");
+}
+
+#banner{
+    background-color: gold;
+    size: 48px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    size: 24px;
+    text-shadow:2px 2px 2px #074df6;
+    color: #363b27;
+}
+
+.button{
+    text-align: center;
+    size: 18px;
+    text-shadow:2px 2px 2px #074df6;
+    color: #363b27;
+    border: 3px solid #ff1824;
+    border-radius: 5px;
+    padding: 3px 5px 3px 5px;
+    background-color: aquamarine;
+}
+
+.button:hover{
+    background-color: darkorchid;
+}
